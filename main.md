@@ -11,6 +11,8 @@ Q. 1. NLP - Model, Language, Program
 8. practise gratitude to shift your frequency
 9. shift frequency - Flash, intitution, hunches, dreams, (events, people, info)
 10. change your state, change your life
+11. different personality(Audio, visual, Kinestic, Audio Digital)
+12. Before marriage comapre PIP, EQ
 
 pls elaborate each point in detail
 ================================
@@ -318,5 +320,5 @@ The **Law of Vibration** suggests that everything in the universe is in constant
 
 By consistently integrating these practices into your life, you can raise and maintain your vibration, allowing you to live from your **higher self** with greater ease, clarity, and purpose.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTg2MDI3XX0=
+eyJoaXN0b3J5IjpbNDQ3ODI5ODU5LDE4ODk4NjAyN119
 -->
