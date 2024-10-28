@@ -31,3 +31,6 @@
 </ul>
 <p>If left untreated, anxiety neurosis can lead to secondary issues like depression, sleep disorders, and chronic physical health problems. Treatment options include therapy (like cognitive-behavioral therapy), medication, lifestyle changes, and relaxation techniques like mindfulness and meditation.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMDI3MTQxNjddfQ==
+-->
