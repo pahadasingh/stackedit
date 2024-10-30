@@ -11,13 +11,13 @@ Working Directory ---> Staging Area ---> Remote Directory
 |git stash pop  | Use `git stash apply` if you want to apply  |
 | git cherry-pick <commit-hash> | bring in individual features from any branch |
 | git branch -d <branch-name> |  |
-|  |  |
+| git branch -D <branch-name> | if you need to force-delete a branch |
 |  |  |
 |  |  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUyMDI4Niw4MjQ5NDA4OTEsMTM0MT
-IzNzA1N119
+eyJoaXN0b3J5IjpbNjE5MjQwMzE2LDgyNDk0MDg5MSwxMzQxMj
+M3MDU3XX0=
 -->
