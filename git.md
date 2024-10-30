@@ -10,14 +10,14 @@ Working Directory ---> Staging Area ---> Remote Directory
 |git stash  | Use `git stash save "description"` to add a description |
 |git stash pop  | Use `git stash apply` if you want to apply  |
 | git cherry-pick <commit-hash> | bring in individual features from any branch |
-| git branch -d <branch-name> |  |
+| git branch -d <branch-name> | delete the branch |
 | git branch -D <branch-name> | if you need to force-delete a branch |
-|  |  |
+| git log -- <file> | certain changes were made over time |
 |  |  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MjQwMzE2LDgyNDk0MDg5MSwxMzQxMj
-M3MDU3XX0=
+eyJoaXN0b3J5IjpbODIwNDQ3MDkyLDYxOTI0MDMxNiw4MjQ5ND
+A4OTEsMTM0MTIzNzA1N119
 -->
