@@ -9,7 +9,7 @@ Working Directory ---> Staging Area ---> Remote Directory
 | git commit --amend | fix mistakes instantly without cluttering your commit history |
 |git stash  | Use `git stash save "description"` to add a description |
 |git stash pop  | Use `git stash apply` if you want to apply  |
-|  |  |
+| git cherry-pick <commit-hash> | bring in individual features |
 |  |  |
 |  |  |
 |  |  |
@@ -18,5 +18,6 @@ Working Directory ---> Staging Area ---> Remote Directory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0OTQwODkxLDEzNDEyMzcwNTddfQ==
+eyJoaXN0b3J5IjpbMjcyMTg0OTE1LDgyNDk0MDg5MSwxMzQxMj
+M3MDU3XX0=
 -->
