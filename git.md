@@ -14,17 +14,19 @@ Working Directory ---> Staging Area ---> Remote Directory
 | git branch -D <branch-name> | if you need to force-delete a branch |
 | git log -- <file> | certain changes were made over time |
 | git blame <filename> | way to track down who made a change and when, especially when debugging issues |
+| git merge --abort | quick exit from a tricky situation |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-|  |  |
-|  |  |
+| git bisect start 
+  git bisect bad 
+  git bisect good <older-commit-hash> |  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNzA2ODcxLDYxOTI0MDMxNiw4MjQ5ND
-A4OTEsMTM0MTIzNzA1N119
+eyJoaXN0b3J5IjpbLTExNjc2MDQ4OTgsNjE5MjQwMzE2LDgyND
+k0MDg5MSwxMzQxMjM3MDU3XX0=
 -->
