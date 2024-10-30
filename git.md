@@ -13,11 +13,18 @@ Working Directory ---> Staging Area ---> Remote Directory
 | git branch -d <branch-name> | delete the branch |
 | git branch -D <branch-name> | if you need to force-delete a branch |
 | git log -- <file> | certain changes were made over time |
+| git blame <filename> | way to track down who made a change and when, especially when debugging issues |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNDQ3MDkyLDYxOTI0MDMxNiw4MjQ5ND
+eyJoaXN0b3J5IjpbNzEzNzA2ODcxLDYxOTI0MDMxNiw4MjQ5ND
 A4OTEsMTM0MTIzNzA1N119
 -->
