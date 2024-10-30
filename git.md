@@ -20,6 +20,9 @@ Working Directory ---> Staging Area ---> Remote Directory
 | git tag -a v1.0 -m "Version 1.0 release" |  |
 | git clean -fd |  |
 | git reflog |  |
+| git rebase -i HEAD~<number-of-commits> |  |
+| git revert <commit-hash> |  |
+| git log --graph --oneline --all |  |
 | git bisect start 
   git bisect bad 
   git bisect good <older-commit-hash> |  |
@@ -27,6 +30,6 @@ Working Directory ---> Staging Area ---> Remote Directory
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2Mzc4NTk0LDYxOTI0MDMxNiw4MjQ5ND
-A4OTEsMTM0MTIzNzA1N119
+eyJoaXN0b3J5IjpbLTE4MjQ1NTI2OTMsNjE5MjQwMzE2LDgyND
+k0MDg5MSwxMzQxMjM3MDU3XX0=
 -->
