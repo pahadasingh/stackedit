@@ -23,13 +23,13 @@ Working Directory ---> Staging Area ---> Remote Directory
 | git rebase -i HEAD~<number-of-commits> |  |
 | git revert <commit-hash> |  |
 | git log --graph --oneline --all |  |
-| git bisect start 
-  git bisect bad 
-  git bisect good <older-commit-hash> |  |
+| ```git bisect start
+		  git bisect bad
+		  git bisect good <older-commit-hash>``` |  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ1NTI2OTMsNjE5MjQwMzE2LDgyND
-k0MDg5MSwxMzQxMjM3MDU3XX0=
+eyJoaXN0b3J5IjpbLTY1NzEwNTUwOSwtMTgyNDU1MjY5Myw2MT
+kyNDAzMTYsODI0OTQwODkxLDEzNDEyMzcwNTddfQ==
 -->
